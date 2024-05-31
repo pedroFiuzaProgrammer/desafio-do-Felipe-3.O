@@ -34,5 +34,5 @@ meuMago.atacar();
 
 O mago atacou usando Escuridão Abissal.
 
-console.log ("Escuridão Abissal: Esta magia convoca as sombras mais profundas e sinistras, criando uma escuridão densa que pode obscurecer completamente a visão ou até mesmo aprisionar os inimigos em um vórtice de trevas.")
+Escuridão Abissal: Esta magia convoca as sombras mais profundas e sinistras, criando uma escuridão densa que pode obscurecer completamente a visão ou até mesmo aprisionar os inimigos em um vórtice de trevas.
 
